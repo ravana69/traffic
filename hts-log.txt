@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 May 2022 14:09:53 at http://lsxs.me/traffic-ohio +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://lsxs.me/traffic-ohio -O1 "C:\Users\ACER\Desktop\short\traffic" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:09:56	Warning: 	File not parsed, looks like binary: lsxs.me/robots.txt
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 22 links scanned, 20 files written (1251893 bytes overall) [616143 bytes received at 32428 bytes/sec], 979795 bytes transferred using HTTP compression in 12 files, ratio 33%, 1.8 requests per connection
+(No errors, 1 warnings, 0 messages)
